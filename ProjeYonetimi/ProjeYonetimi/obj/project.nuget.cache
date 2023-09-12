@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nr5nDvDvLrPp601NQm7POhgdUm6BjlXwIIhvkDpuEGsbdGlyRFXYKPREV0hnxtlakhJzmP6f8ZHJN1eefW5iig==",
+  "success": true,
+  "projectFilePath": "D:\\Yedek\\YunusBackup\\Alıştırma\\ProjeYonetimi\\ProjeYonetimi\\ProjeYonetimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yunus\\.nuget\\packages\\npgsql\\6.0.9\\npgsql.6.0.9.nupkg.sha512",
+    "C:\\Users\\Yunus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
